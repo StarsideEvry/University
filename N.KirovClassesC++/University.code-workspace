@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"xutility": "cpp",
+			"ostream": "cpp",
+			"xstring": "cpp",
+			"list": "cpp",
+			"charconv": "cpp",
+			"exception": "cpp",
+			"format": "cpp",
+			"iomanip": "cpp",
+			"istream": "cpp",
+			"iterator": "cpp",
+			"locale": "cpp",
+			"memory": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"string": "cpp",
+			"system_error": "cpp",
+			"typeinfo": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp",
+			"xlocbuf": "cpp",
+			"xlocinfo": "cpp",
+			"xlocmes": "cpp",
+			"xlocmon": "cpp",
+			"xlocnum": "cpp",
+			"xloctime": "cpp"
+		}
+	}
+}
